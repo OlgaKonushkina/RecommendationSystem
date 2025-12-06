@@ -1,0 +1,10 @@
+# Игнорируем всё
+*
+
+# Исключаем нужные файлы
+!service/
+!service/*.py
+!service/requirements.txt
+!models/
+!models/*.bin
+!models/*.cbm
